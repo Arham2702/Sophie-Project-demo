@@ -1,5 +1,6 @@
-streamlit
-deepface
-opencv-python
-pillow
-google-generativeai
+streamlit==1.33.0
+deepface==0.0.75
+tensorflow==2.11.0
+protobuf==3.20.3
+pillow==9.5.0
+opencv-python==4.5.5.64
